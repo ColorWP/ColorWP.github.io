@@ -1,0 +1,1 @@
+import{_ as e,o,c as t}from"./chunks/framework.d62c974d.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Web/Roolup/Roolup1/r1.md","filePath":"Web/Roolup/Roolup1/r1.md"}'),r={name:"Web/Roolup/Roolup1/r1.md"};function a(p,s,c,n,l,_){return o(),t("div")}const u=e(r,[["render",a]]);export{i as __pageData,u as default};
