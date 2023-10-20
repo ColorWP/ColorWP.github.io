@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./chunks/framework.df6e7049.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"myMusic"},"headers":[],"relativePath":"My/Music/Music/m1.md","filePath":"My/Music/Music/m1.md"}'),c={name:"My/Music/Music/m1.md"};function a(o,r,i,n,m,u){return t(),s("div")}const d=e(c,[["render",a]]);export{_ as __pageData,d as default};

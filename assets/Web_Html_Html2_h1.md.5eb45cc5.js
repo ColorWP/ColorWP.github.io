@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.df6e7049.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"myAuth"},"headers":[],"relativePath":"Web/Html/Html2/h1.md","filePath":"Web/Html/Html2/h1.md"}'),o={name:"Web/Html/Html2/h1.md"};function r(m,s,c,n,l,p){return e(),a("div")}const i=t(o,[["render",r]]);export{d as __pageData,i as default};
